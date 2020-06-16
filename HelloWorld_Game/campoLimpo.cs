@@ -4,6 +4,7 @@ namespace HelloWorld_Game
 {
   public class CampoLimpo
   {
+    string testpush;
     public CampoLimpo (){}
 
     public string[,] field = new string [9,3] 
